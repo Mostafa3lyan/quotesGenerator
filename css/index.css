@@ -1,0 +1,21 @@
+    body {
+    font-family: Arial, sans-serif;
+    color: #060606;
+    margin: 0;
+    padding: 20px;
+        font-size: 2rem;
+    }
+    
+    #Quotes {
+    font-family: Georgia, serif;
+    font-style: italic;
+    text-align: center;
+    padding: 20px;
+    font-size: 1.5rem;
+    }
+    .author {
+    display: block;
+    margin-top: 10px;
+    font-style: normal;
+    font-weight: bold;
+    }
